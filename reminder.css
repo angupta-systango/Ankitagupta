@@ -1,0 +1,7 @@
+.container{
+	 border: 100px solid transparent;
+  padding: 15px;
+  border-image: url(a1.jpg) 20% round;
+  width: 1500px;
+  height: 680px;
+}
